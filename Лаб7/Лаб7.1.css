@@ -1,0 +1,31 @@
+header, nav, main, aside, footer{
+    padding: 20px;
+    border-style: solid;
+    border-color: rgb(78, 151, 151);
+    background-color: rgb(116, 191, 191);
+    color: aliceblue;
+    text-align: center;
+}
+
+header{
+    float: left;
+    width: 50%;
+}
+
+nav{
+    width:auto;
+}
+
+main{
+    float: left;
+    width: 50%;
+}
+
+aside{
+    width: auto;
+}
+
+footer{
+    clear: both;
+}
+
